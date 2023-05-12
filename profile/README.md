@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="174" height="200" src="assets/logo.png" alt="Cerbos"/>
+    <img width="174" height="200" src="./assets/logo.png" alt="Cerbos"/>
 </p>
 
 ## The scalable, open-source authorization layer for your software
